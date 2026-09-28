@@ -8,7 +8,7 @@ This repository documents my learning journey through hands-on projects, with a 
 
 ### 1. MNIST Digit Classification with PyTorch
 
-A handwritten digit classification project implemented with **PyTorch**, including two neural network approaches:
+A handwritten digit classification project implemented with **PyTorch**, featuring two neural network approaches:
 
 * **MLP (Multi-Layer Perceptron)**
 * **CNN (Convolutional Neural Network)**
@@ -24,7 +24,7 @@ The project covers the complete machine learning workflow:
 * Performance metrics
 * Error analysis
 
-[View Project →](mnist_classifier/README.md)
+[View Project →](./mnist_classifier/README.md)
 
 ## Technologies
 
