@@ -101,10 +101,6 @@ cm = confusion_matrix(
     test_labels,
     test_predictions,
 )
-cm = confusion_matrix(
-    test_labels,
-    test_predictions,
-)
 
 # print("\nConfusion Matrix:")
 # print(cm)
